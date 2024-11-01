@@ -1,8 +1,8 @@
 [
     {
         "name": "Yellow Charts",
-        "file": "chartdata-yellow-new.json",
-        "rating": "Top",
+        "file": "yellow.json",
+        "rating": "Hot",
         "data": null,
         "urlseg": "yellow",
         "startYear": 2024,
@@ -11,12 +11,42 @@
     },
     {
         "name": "Elio Charts",
-        "file": "chartdata-elio-new.json",
+        "file": "elio.json",
         "rating": "Hot",
         "data": null,
         "urlseg": "elio",
         "startYear": 2011,
         "endYear": 2024,
         "startDay": 4
+    },
+    {
+        "name": "Xylo Charts",
+        "file": "xylo.json",
+        "rating": "Hot",
+        "data": null,
+        "urlseg": "xylo",
+        "startYear": 2024,
+        "endYear": 2024,
+        "startDay": 6
+    },
+    {
+        "name": "Twix Charts",
+        "file": "twix.json",
+        "rating": "Hot",
+        "data": null,
+        "urlseg": "twix",
+        "startYear": 2024,
+        "endYear": 2024,
+        "startDay": 5
+    },
+    {
+        "name": "Caiden Charts",
+        "file": "caiden.json",
+        "rating": "Hot",
+        "data": null,
+        "urlseg": "caiden",
+        "startYear": 2024,
+        "endYear": 2024,
+        "startDay": 5
     }
 ]
