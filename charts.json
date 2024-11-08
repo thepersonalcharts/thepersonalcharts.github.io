@@ -49,4 +49,25 @@
         "endYear": 2024,
         "startDay": 5
     }
+    ,
+    {
+        "name": "Haha Charts",
+        "file": "Haha.json",
+        "rating": "Hot",
+        "data": null,
+        "urlseg": "haha",
+        "startYear": 2024,
+        "endYear": 2024,
+        "startDay": 5
+    },
+    {
+        "name": "Combined ",
+        "file": "",
+        "rating": "Hot",
+        "data": null,
+        "urlseg": "all",
+        "startYear": 2024,
+        "endYear": 2024,
+        "startDay": 1
+    }
 ]
