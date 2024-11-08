@@ -52,7 +52,7 @@
     ,
     {
         "name": "Haha Charts",
-        "file": "Haha.json",
+        "file": "haha.json",
         "rating": "Hot",
         "data": null,
         "urlseg": "haha",
