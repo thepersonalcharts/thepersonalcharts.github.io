@@ -60,4 +60,15 @@
         "endYear": 2024,
         "startDay": 5
     }
+    ,
+    {
+        "name": "Seod Charts",
+        "file": "seod.json",
+        "rating": "Hot",
+        "data": null,
+        "urlseg": "seod",
+        "startYear": 2024,
+        "endYear": 2024,
+        "startDay": 3
+    }
 ]
