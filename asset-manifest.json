@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84008d05.css",
-    "main.js": "/static/js/main.e954bc7b.js",
+    "main.js": "/static/js/main.f13035e9.js",
     "static/media/NeueHaasDisplay-Bold.woff": "/static/media/NeueHaasDisplay-Bold.fff0d3314d5936828d51.woff",
     "static/media/NeueHaasDisplay-Medium.woff": "/static/media/NeueHaasDisplay-Medium.ffd6b24657b105883127.woff",
     "static/media/NeueHaasDisplay-Black.woff": "/static/media/NeueHaasDisplay-Black.952c6aa636a79022bdba.woff",
@@ -11,10 +11,10 @@
     "static/media/allchartsbackground.png": "/static/media/allchartsbackground.eae1c02f88006bbe3e48.png",
     "index.html": "/index.html",
     "main.84008d05.css.map": "/static/css/main.84008d05.css.map",
-    "main.e954bc7b.js.map": "/static/js/main.e954bc7b.js.map"
+    "main.f13035e9.js.map": "/static/js/main.f13035e9.js.map"
   },
   "entrypoints": [
     "static/css/main.84008d05.css",
-    "static/js/main.e954bc7b.js"
+    "static/js/main.f13035e9.js"
   ]
 }
